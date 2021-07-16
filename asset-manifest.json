@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DReamvoyage/static/css/main.fd0dabef.chunk.css",
+    "main.js": "/DReamvoyage/static/js/main.99f3d9d4.chunk.js",
+    "main.js.map": "/DReamvoyage/static/js/main.99f3d9d4.chunk.js.map",
+    "runtime-main.js": "/DReamvoyage/static/js/runtime-main.f89aa59d.js",
+    "runtime-main.js.map": "/DReamvoyage/static/js/runtime-main.f89aa59d.js.map",
+    "static/js/2.c763d93a.chunk.js": "/DReamvoyage/static/js/2.c763d93a.chunk.js",
+    "static/js/2.c763d93a.chunk.js.map": "/DReamvoyage/static/js/2.c763d93a.chunk.js.map",
+    "index.html": "/DReamvoyage/index.html",
+    "static/css/main.fd0dabef.chunk.css.map": "/DReamvoyage/static/css/main.fd0dabef.chunk.css.map",
+    "static/js/2.c763d93a.chunk.js.LICENSE.txt": "/DReamvoyage/static/js/2.c763d93a.chunk.js.LICENSE.txt",
+    "static/media/Bali.e2a6d75a.jpg": "/DReamvoyage/static/media/Bali.e2a6d75a.jpg",
+    "static/media/Californie.5fa7cb9d.jpg": "/DReamvoyage/static/media/Californie.5fa7cb9d.jpg",
+    "static/media/Dubaï.30a8b653.jpg": "/DReamvoyage/static/media/Dubaï.30a8b653.jpg",
+    "static/media/Taïwan.9868ce1c.jpg": "/DReamvoyage/static/media/Taïwan.9868ce1c.jpg",
+    "static/media/travel.22ca7b24.mp4": "/DReamvoyage/static/media/travel.22ca7b24.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f89aa59d.js",
+    "static/js/2.c763d93a.chunk.js",
+    "static/css/main.fd0dabef.chunk.css",
+    "static/js/main.99f3d9d4.chunk.js"
+  ]
+}
